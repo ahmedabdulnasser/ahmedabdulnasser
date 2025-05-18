@@ -1,7 +1,6 @@
 # 💫 About Me:
 A passionate software engineer and problem-solver who enjoys turning challenges into clean, scalable solutions. Backed by a strong foundation in JavaScript, Node.js, React.js, MongoDB, and SQL, I specialize in building full-stack applications that are efficient, user-focused, and maintainable.<br><br> I'm constantly learning, exploring new tools, and deepening my understanding of algorithms, core computer science concepts, and modern development practices.<br><br><br>
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmedabdulnasser/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aabdelnasser101@gmail.com) 
 
